@@ -1,6 +1,6 @@
 # First-Python-Project-penalty-analyse
 
-This is my first project in pyhton. The objective is learning to manipulate data in python langage : the differents packages (pandas, matplotlib), cleaning up the datas, get informations from datas.
+This is my first project in Pyhton. The objective is learning to manipulate data in python langage : the differents packages (pandas, matplotlib), cleaning up the datas, get informations from datas.
 
 I chose to work on a penalty in football file because statistics in sports is the datas i want work with. Plus the penalty statistics is easy to understand so it's better to start with it.
 
