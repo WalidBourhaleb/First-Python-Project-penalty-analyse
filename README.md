@@ -30,6 +30,6 @@ The results of the analyses shows that the players take the pressure
 The competition which obtain the most number of penalties so far is the Serie A with 8 teams in the Top 10.
 And we can see a pic of penatlies's density near the half time.
 
-For a first project, I saw a basic part of the Datas but most important, I enjoyed work in this project and found this very interesting. So I want improve my knowledges about Datas.
+For a first project, I saw a basic part of the Datas but most important, I enjoyed work in this project and found this very interesting. So I want improve my knowledges about Datas. For example : API, Dashboards.
 
 Finally, I think this project is finished for now because I want to see other aspect of data analyse, but i will definitely keep to work with this project to improve my skills in python and other packages.
